@@ -1,0 +1,10 @@
+asyncio
+aiohttp
+beautifulsoup4
+html2text
+googlesearch-python
+langchain-core
+langchain-mistralai
+langchain-community
+crawl4ai
+python-dotenv
